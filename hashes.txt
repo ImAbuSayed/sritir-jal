@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sritir Jal
+
+This log tracks the cryptographic history and versioning for the song **Sritir Jal** (sritir-jal).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T10:09:43.331278 | `v1` | `0335df72bcd98aaa7a118d129d9c10350abf60351d5f32c4effaf337f433f944` | `598f812647d4365658b4d55c503afce4e516087168476440d3991e4bfa275f29` | `2026-05-16_sritir-jal-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

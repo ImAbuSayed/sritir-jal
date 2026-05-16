@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sritir-jal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sritir Jal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sritir-jal/) |
+| **Get License** | [Official Music Licensing for Sritir Jal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sritir-jal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0335df72bcd98aaa7a118d129d9c10350abf60351d5f32c4effaf337f433f944` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
