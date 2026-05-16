@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sritir-jal/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sritir Jal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sritir-jal/) |
+| **Get License** | [Commercial Licensing for Sritir Jal](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sritir-jal/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে খুঁজছি তোমায় স্মৃতির সীমানায়
+> বুকের ভেতর প্রেমের আগুন নীরবে জ্বলে যায়
+> তোমার ছোঁয়ায় মাতাল আমি এই তো অবিরত
+> দু’চোখে আজ নেশার ঘোরে স্বপ্ন শত শত
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
